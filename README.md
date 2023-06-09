@@ -1,1 +1,5 @@
-# js-vanilla-stopwatch-timer
+# Stopwatch timer⏲️
+
+**Vanilla JavaScript.**
+
+Start/Stop/Reset
