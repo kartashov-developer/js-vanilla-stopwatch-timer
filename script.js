@@ -42,7 +42,10 @@ function stop() {
     interval = null;
 };
 function reset() {
+    // All in stop()
     stop();
+    // seconds to initialValue
     seconds = 0;
+    // innerText to initialValue
     timeDiv.innerText = "00:00:00";
 };
